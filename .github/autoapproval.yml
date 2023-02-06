@@ -1,4 +1,5 @@
 from_owner:
   - changusmc
-required_labels: []
+required_labels: 
+  - ready
 apply_labels: []
